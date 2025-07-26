@@ -4,7 +4,7 @@ NEOVERSE - NeoVerse is a multi-chain Web3 app that unifies crypto payments, digi
 
 **NeoVerse** is a multi-chain Web3 super app unifying wallets, payments, identity, DAOs, and creator tools — designed to onboard the next billion users to Web3 with zero friction.
 
-## 🔥 Key Features
+##  Key Features
 
 - **NeoWallet**: Multi-chain smart wallet with gasless UX
 - **NeoPay**: Fiat + crypto payments, invoicing, POS
@@ -15,7 +15,7 @@ NEOVERSE - NeoVerse is a multi-chain Web3 app that unifies crypto payments, digi
 - **NeoLearn**: Learn-to-earn onboarding quests
 - **Developer SDK**: APIs for wallets, payments, plugins
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Solidity (smart contracts)
 - Next.js (frontend)
@@ -27,17 +27,17 @@ NEOVERSE - NeoVerse is a multi-chain Web3 app that unifies crypto payments, digi
 - IPFS & WalletConnect
 - Polygon + BSC + Solana support
 
-## 💻 Repo Access
+##  Repo Access
 
 This repo is private.  
 Access has been granted to:  
-📩 `hackathon@colosseum.org`
+ `hackathon@colosseum.org`
 
 If you're a judge and need access, feel free to reach out via Issues or email.
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/neoverse.git
