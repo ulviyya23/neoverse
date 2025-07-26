@@ -1,6 +1,7 @@
+Option 1: Professional MIT License (Recommended)
 MIT License
 
-Copyright (c) 2025 ulviyya23
+Copyright (c) 2025 Ulviyya Ahmadova (ulviyya23) and NeoVerse Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,4 +23,189 @@ SOFTWARE.
 
 ---
 
-### ✅ 3. GitHub Repo Name Suggestion
+## Third-Party Licenses
+
+This project includes third-party software components with their own licenses:
+
+### OpenZeppelin Contracts
+- License: MIT
+- Copyright: OpenZeppelin Team
+- Source: https://github.com/OpenZeppelin/openzeppelin-contracts
+
+### Chainlink Contracts  
+- License: MIT
+- Copyright: Chainlink Labs
+- Source: https://github.com/smartcontractkit/chainlink
+
+### Account Abstraction
+- License: GPL-3.0
+- Copyright: Ethereum Foundation
+- Source: https://github.com/eth-infinitism/account-abstraction
+
+For complete license terms of third-party components, see their respective repositories.
+
+---
+
+## Patent Notice
+
+NeoVerse does not claim any patents on the software provided under this license.
+Any patents that may apply to the software are hereby licensed under the same
+terms as the software itself.
+
+---
+
+## Trademark Notice
+
+"NeoVerse", "NeoPay", "NeoID", "NeoWallet", "NeoConnect", "NeoRemit", "NeoDAO", 
+and "NeoLearn" are trademarks of Ulviyya Ahmadova. Use of these trademarks 
+requires explicit permission.
+
+---
+
+For questions about licensing, contact: legal@neoverse.io
+Option 2: Business-Friendly MIT License
+MIT License
+
+Copyright (c) 2025 NeoVerse Technologies
+Founder: Ulviyya Ahmadova (ulviyya23)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Commercial Use
+
+While this software is provided under the MIT License, commercial use of the
+NeoVerse brand, trademarks, and certain proprietary features may require
+separate licensing agreements.
+
+For commercial licensing inquiries, contact: business@neoverse.io
+
+---
+
+## Contributing
+
+By contributing to this project, you agree that your contributions will be
+licensed under the same MIT License. You also represent that you have the
+right to make such contributions.
+
+---
+
+## Warranty Disclaimer
+
+This software is provided for educational and development purposes. While we
+strive for security and reliability, users should conduct their own security
+audits before using this software in production environments, especially when
+handling financial transactions or sensitive data.
+
+---
+
+Last updated: January 2025
+Option 3: Dual License (MIT + Commercial)
+NeoVerse Dual License
+
+This software is available under two licensing options:
+
+## 1. MIT License (Open Source)
+
+Copyright (c) 2025 Ulviyya Ahmadova and NeoVerse Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## 2. Commercial License
+
+For commercial use that requires:
+- White-labeling the NeoVerse platform
+- Removing attribution requirements  
+- Enterprise support and warranties
+- Custom integrations and modifications
+- Priority technical support
+
+Contact us for commercial licensing: business@neoverse.io
+
+---
+
+## SDK and API Usage
+
+The NeoVerse SDK and public APIs are free to use under the MIT License for:
+- Development and testing
+- Personal projects  
+- Open source projects
+- Educational purposes
+
+Commercial API usage may be subject to rate limits and usage fees.
+See our API documentation for current pricing: https://docs.neoverse.io
+
+---
+
+## Trademark Rights Reserved
+
+"NeoVerse" and related marks are trademarks of Ulviyya Ahmadova.
+Trademark usage requires explicit permission.
+
+---
+
+For licensing questions: legal@neoverse.io
+Additional Files You Should Consider Adding:
+1. NOTICE File (Optional but Professional)
+NeoVerse
+Copyright 2025 Ulviyya Ahmadova
+
+This product includes software developed by:
+- The NeoVerse Team (https://neoverse.io)
+- OpenZeppelin (https://openzeppelin.com)
+- Chainlink Labs (https://chain.link)
+- Ethereum Foundation (https://ethereum.org)
+
+Third-party licenses can be found in the licenses/ directory.
+2. COPYRIGHT File
+NeoVerse Multi-Chain Web3 Super App
+Copyright (c) 2025 Ulviyya Ahmadova
+
+All rights reserved in NeoVerse trademarks, trade names, and proprietary features.
+
+This copyright notice applies to all files in this repository unless otherwise specified.
+3. Legal Directory Structure
+neoverse/
+├── LICENSE                 # Main license file
+├── NOTICE                 # Third-party attributions  
+├── COPYRIGHT              # Copyright notice
+└── legal/
+    ├── TERMS_OF_SERVICE.md
+    ├── PRIVACY_POLICY.md
+    └── third-party-licenses/
+        ├── openzeppelin-license.txt
+        ├── chainlink-license.txt
+        └── ethereum-license.txt
